@@ -24,3 +24,6 @@ mode=mode(s)
 var=var(s)
 
 hist(s)
+
+![noname01](https://user-images.githubusercontent.com/58453290/70115881-6ac58a80-16a4-11ea-8c4f-cdb43cc0e838.png)
+
